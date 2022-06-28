@@ -6,7 +6,9 @@ Link: https://cfreds-archive.nist.gov/Hacking_Case.html
 ```
 ## Scenario
 >On 09/20/04 , a Dell CPi notebook computer, serial # VLQLW, was found abandoned along with a wireless PCMCIA card and an external homemade 802.11b antennae. It is suspected that this computer was used for hacking purposes, although cannot be tied to a hacking suspect, G=r=e=g S=c=h=a=r=d=t. (The equal signs are just to prevent web crawlers from indexing this name; there are no equal signs in the image files.)
+
 >Schardt also goes by the online nickname of “Mr. Evil” and some of his associates have said that he would park his vehicle within range of Wireless Access Points (like Starbucks and other T-Mobile Hotspots) where he would then intercept internet traffic, attempting to get credit card numbers, usernames & passwords.
+
 >Find any hacking software, evidence of their use, and any data that might have been generated. Attempt to tie the computer to the suspect, G=r=e=g S=c=h=a=r=d=t.
 
 ### Questions
@@ -32,19 +34,30 @@ Ans. Central Standerd Time
 ```
 
 5. Who is the registered owner?<br/>
-Ans.
+```
+Ans. Registered Owner is Greg Schardt.
+```
 
 6. What is the computer account name?<br/>
-Ans.
+```
+Ans. DefaultUserName Mr. Evil
+```
 
 7. What is the primary domain name?<br/>
-Ans.
+```
+Ans. DefaultDomainName N-1A9ODN6ZXK4LQ
+```
 
 8. When was the last recorded computer shutdown date/time?<br/>
-Ans.
+```
+Ans. 2004-08-27 21:16:33.1092164 +05:30
+     NOTE:- We also found this by following below path “C:\WINDOWS\system32\config\software\Microsoft\WindowNT\CurrentVersion\Prefetcher\ExitTime”
+```
 
 9. How many accounts are recorded (total number)?<br/>
-Ans.
+```
+Ans. 
+```
 
 10. What is the account name of the user who mostly uses the computer?<br/>
 Ans.
