@@ -1,5 +1,9 @@
 # Digital_Forensics
 
+* We are doing the forensic analysis of the Hacking case from the cfred's website.
+```
+Link: https://cfreds-archive.nist.gov/Hacking_Case.html
+```
 ### Questions
 1. What is the image hash? Does the acquisition and verification hash match?<br/>
 Ans.
