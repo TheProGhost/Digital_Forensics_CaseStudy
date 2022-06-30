@@ -50,32 +50,51 @@ Ans. DefaultDomainName N-1A9ODN6ZXK4LQ
 
 8. When was the last recorded computer shutdown date/time?<br/>
 ```
-Ans. 2004-08-27 21:16:33.1092164 +05:30
+Ans. 2004-08-27 21:16:33.1092164 GMT+05:30
      NOTE:- We also found this by following below path “C:\WINDOWS\system32\config\software\Microsoft\WindowNT\CurrentVersion\Prefetcher\ExitTime”
 ```
 
 9. How many accounts are recorded (total number)?<br/>
 ```
-Ans. 
+Ans. 5 ( Administrator, Guest, HelpAssistant, Mr. Evil, Support_388945a0 )
 ```
 
 10. What is the account name of the user who mostly uses the computer?<br/>
-Ans.
+```
+Ans. Mr. Evil ( count 15 times)
+```
 
 11. Who was the last user to logon to the computer?<br/>
-Ans.
+```
+Ans. Mr. Evil 
+     NOTE:- Can be found from path "C:\WINDOWS\system32\config\software\Microsoft\WindowNT\CurrentVersion\Winlogon"
+```
 
 12. A search for the name of “G=r=e=g S=c=h=a=r=d=t” reveals multiple hits. One of these proves that G=r=e=g S=c=h=a=r=d=t is Mr. Evil and is also the administrator of this computer. What file is it? What software program does this file relate to?<br/>
-Ans.
+```
+Ans. The perticular file which gives info is "C:\Program Files\Look@LAN\irunin.ini" and name of program is Look@LAN.
+```
 
 13.  List the network cards used by this computer<br/>
-Ans.
+```
+Ans. There are 2 Network Cards:
+     1. Compaq WL110 Wireless LAN PC Card
+     2. Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface)
+     NOTE:- To find the network card the path is "C:\windows\system32\config\software\Microsoft\Windows NT\CurrentVersion\NetworkCards" 
+```
 
 14. This same file reports the IP address and MAC address of the computer. What are they?<br/>
-Ans.
+```
+Ans. File is "C:\Program Files\Look@LAN\irunin.ini".
+     IP Address  : 192.168.1.111
+     MAC Address : 00:10:a4:93:3e:09
+```
 
 15. An internet search for vendor name/model of NIC cards by MAC address can be used to find out which network interface was used. In the above answer, the first 3 hex characters of the MAC address report the vendor of the card. Which NIC card was used during the installation and set-up for LOOK@LAN?<br/>
-Ans.
+```
+Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
+     So, the NIC card used for setup the Look@LAN is: Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface)
+```
 
 16. Find 6 installed programs that may be used for hacking.<br/>
 Ans.
