@@ -5,8 +5,9 @@
 Link: https://cfreds-archive.nist.gov/Hacking_Case.html
 ```
 We will be using the tool name Autopsy.
-
-
+<p align=centre>
+<img src="https://latesthackingnews.com/wp-content/uploads/2017/01/Autopsy-Digital-Forensic-Tool.jpg" alt="Autopsy Logo"  >
+</p>
 ## Scenario
 >On 09/20/04 , a Dell CPi notebook computer, serial # VLQLW, was found abandoned along with a wireless PCMCIA card and an external homemade 802.11b antennae. It is suspected that this computer was used for hacking purposes, although cannot be tied to a hacking suspect, G=r=e=g S=c=h=a=r=d=t. (The equal signs are just to prevent web crawlers from indexing this name; there are no equal signs in the image files.)
 
@@ -110,13 +111,24 @@ Ans. 1. Cain & Abel v2.5 beta45              : Password cracking tool
 ```
 
 17. What is the SMTP email address for Mr. Evil?<br/>
-Ans.
+```
+Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
+     TO find this do the keyword search of SMTP.
+     Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
+```
+<p align=centre>
+![Que.17](/Images/Que 17.png)
+</p>
 
 18. What are the NNTP (news server) settings for Mr. Evil?<br/>
-Ans.
+```
+Ans. 
+```
 
 19. What two installed programs show this information?<br/>
+```
 Ans.
+```
 
 20. List 5 newsgroups that Mr. Evil has subscribed to?<br/>
 Ans.
