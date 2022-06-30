@@ -1,10 +1,10 @@
 # Digital_Forensics
 
 ### We are doing the forensic analysis of the Hacking case from the cfred's website.
-```
-Link: https://cfreds-archive.nist.gov/Hacking_Case.html
-```
-We will be using the tool name Autopsy.
+
+**Link: https://cfreds-archive.nist.gov/Hacking_Case.html**
+
+* **We will be using the tool name Autopsy.**
 <p align=centre>
 <img src="https://latesthackingnews.com/wp-content/uploads/2017/01/Autopsy-Digital-Forensic-Tool.jpg" alt="Autopsy Logo"  >
 </p>
