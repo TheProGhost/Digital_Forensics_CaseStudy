@@ -1,9 +1,12 @@
 # Digital_Forensics
 
-* We are doing the forensic analysis of the Hacking case from the cfred's website.
+### We are doing the forensic analysis of the Hacking case from the cfred's website.
 ```
 Link: https://cfreds-archive.nist.gov/Hacking_Case.html
 ```
+We will be using the tool name Autopsy.
+
+
 ## Scenario
 >On 09/20/04 , a Dell CPi notebook computer, serial # VLQLW, was found abandoned along with a wireless PCMCIA card and an external homemade 802.11b antennae. It is suspected that this computer was used for hacking purposes, although cannot be tied to a hacking suspect, G=r=e=g S=c=h=a=r=d=t. (The equal signs are just to prevent web crawlers from indexing this name; there are no equal signs in the image files.)
 
@@ -97,7 +100,14 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 ```
 
 16. Find 6 installed programs that may be used for hacking.<br/>
-Ans.
+```
+Ans. 1. Cain & Abel v2.5 beta45              : Password cracking tool
+     2. Ethereal 0.10.6 v.0.10.6	          : Advanced Network Analysis Software
+     3. Network Stumbler 0.4.0 (remove only)	: Wireless LAN detaction and attack
+     4. Look@LAN 2.50 Build 29               :  an advanced network monito
+     5. 123 Write All Stored Passwords	     :   display all passwords of the currently logged on user that are stored in the Microsoft PWL file
+     6. Anonymizer Bar 2.0 (remove only)	:  a tool that attempts to make activity on the Internet untraceable
+```
 
 17. What is the SMTP email address for Mr. Evil?<br/>
 Ans.
