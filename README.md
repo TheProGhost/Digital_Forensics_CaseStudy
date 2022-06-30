@@ -118,7 +118,7 @@ Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
 <p align=centre>
-![Que.17](/Images/Que 17.png)
+<img src="/images/Que 17.png" alt="Que17 Image")
 </p>
 
 18. What are the NNTP (news server) settings for Mr. Evil?<br/>
