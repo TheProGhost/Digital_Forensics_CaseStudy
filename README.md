@@ -143,7 +143,7 @@ Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
 <p align=centre>
-<img src="/images/Que 17.png" alt="Que17 Image">
+<img src="https://github.com/TheProGhost/Digital_Forensics_CaseStudy/blob/main/images/Que%2017.png" alt="Que17 Image">
 </p>
 
 18. What are the NNTP (news server) settings for Mr. Evil?<br/>
@@ -155,7 +155,7 @@ Ans. NNTP (news server) is : news.dallas.sbcglobal.net
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
 <p align=centre>
-<img src="/images/Que 18.png" alt="Que18 Image">
+<img src="https://github.com/TheProGhost/Digital_Forensics_CaseStudy/blob/main/images/Que%2018.png" alt="Que18 Image">
 </p>
 
 19. What two installed programs show this information?<br/>
@@ -166,7 +166,7 @@ Ans. The program show this information is MS Outlook Express.
      Where it is showing the application msimn which is the exe of outlook express.
 ```
 <p>
-<img src="/images/Que 19.png" alt="Que19 Image">
+<img src="https://github.com/TheProGhost/Digital_Forensics_CaseStudy/blob/main/images/Que%2019.png" alt="Que19 Image">
 </p>
 
 20. List 5 newsgroups that Mr. Evil has subscribed to?<br/>
