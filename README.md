@@ -83,8 +83,8 @@ Ans. The perticular file which gives info is "C:\Program Files\Look@LAN\irunin.i
 13.  List the network cards used by this computer<br/>
 ```
 Ans. There are 2 Network Cards:
-     1. Compaq WL110 Wireless LAN PC Card
-     2. Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface)
+     First is Compaq WL110 Wireless LAN PC Card
+     Second is Xircom CardBus Ethernet 100 + Modem 56 (Ethernet Interface)
      NOTE:- To find the network card the path is "C:\windows\system32\config\software\Microsoft\Windows NT\CurrentVersion\NetworkCards" 
 ```
 
@@ -102,14 +102,16 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 ```
 
 16. Find 6 installed programs that may be used for hacking.<br/>
-```
-Ans. Cain & Abel v2.5 beta45              : Password cracking tool
-     Ethereal 0.10.6 v.0.10.6	          : Advanced Network Analysis Software
-     Network Stumbler 0.4.0 (remove only) : Wireless LAN detaction and attack
-     Look@LAN 2.50 Build 29               :  an advanced network monito
-     123 Write All Stored Passwords	  :   display all passwords of the currently logged on user that are stored in the Microsoft PWL file
-     Anonymizer Bar 2.0 (remove only)	  :  a tool that attempts to make activity on the Internet untraceable
-```
+**Ans.** 
+     Program Found | Usage
+     --- | ---
+     Cain & Abel v2.5 beta45 | Password cracking tool
+     Ethereal 0.10.6 v.0.10.6 | Advanced Network Analysis Software
+     Network Stumbler 0.4.0 (remove only) | Wireless LAN detaction and attack
+     Look@LAN 2.50 Build 29 | an advanced network monito
+     123 Write All Stored Password | display all passwords of the currently logged on user that are stored in the Microsoft PWL file
+     Anonymizer Bar 2.0 (remove only) | a tool that attempts to make activity on the Internet untraceable
+
 
 17. What is the SMTP email address for Mr. Evil?<br/>
 ```
