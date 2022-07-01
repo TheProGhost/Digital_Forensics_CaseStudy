@@ -193,7 +193,7 @@ Ans. User  = Mini Me
 
      Note:- Can be found at Path: C:\Program Files\mIRC\mirc.ini
 ```
-<div align=center>
+<div>
 <h3>Files in C:\Program Files\mIRC </h3>
 <img src="/images/Que 21_1.png" alt="Que21 image1">
 <h3>Content of the mirc.ini file</h3>
