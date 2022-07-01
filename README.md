@@ -103,15 +103,38 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 
 16. Find 6 installed programs that may be used for hacking.<br/>
 **Ans.** 
-     Program Found | Usage
-     --- | ---
-     Cain & Abel v2.5 beta45 | Password cracking tool
-     Ethereal 0.10.6 v.0.10.6 | Advanced Network Analysis Software
-     Network Stumbler 0.4.0 (remove only) | Wireless LAN detaction and attack
-     Look@LAN 2.50 Build 29 | an advanced network monito
-     123 Write All Stored Password | display all passwords of the currently logged on user that are stored in the Microsoft PWL file
-     Anonymizer Bar 2.0 (remove only) | a tool that attempts to make activity on the Internet untraceable
-
+     <div align=centre>
+     <table>
+          <tr>
+               <th>Program Found</th>
+               <th>Usage</th>
+          </tr>
+          <tr>
+               <td>Cain & Abel v2.5 beta45</td> 
+               <td>Password cracking tool</td>
+          </tr>
+          <tr>
+               <td>Ethereal 0.10.6 v.0.10.6</td>
+               <td>Advanced Network Analysis Software</td>
+          </tr>
+          <tr>
+               <td>Network Stumbler 0.4.0 (remove only)</td> 
+               <td>Wireless LAN detaction and attack</td>
+          </tr>
+          <tr>
+               <td>Look@LAN 2.50 Build 29</td> 
+               <td>an advanced network monito</td>
+          </tr>
+          <tr>
+               <td>123 Write All Stored Password</td>
+               <td>display all passwords of the currently logged on user that are stored in the Microsoft PWL file</td>
+          </tr>
+          <tr>
+               <td>Anonymizer Bar 2.0 (remove only)</td> 
+               <td>a tool that attempts to make activity on the Internet untraceable</td>
+          </tr>
+     </table>
+     </div>
 
 17. What is the SMTP email address for Mr. Evil?<br/>
 ```
