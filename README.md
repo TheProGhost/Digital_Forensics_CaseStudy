@@ -208,8 +208,8 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
      </table>
      </div>
 
-
 ***This Information can be found by Selecting the "Installed Programs" from left pane.***
+
 <div>
 <img src="./images/Que 16.png" alt="Que16 Image">
 </div>
