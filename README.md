@@ -1,13 +1,17 @@
-# Digital_Forensics
+<div align="center">
+<!-- <img src="/images/mv.png" alt="Logo"> -->
+<h1>Digital Forensics </h1>
+</div>
 
 ### We are doing the forensic analysis of the Hacking case from the cfred's website.
 
 **Link: https://cfreds-archive.nist.gov/Hacking_Case.html**
 
 * **We will be using the tool name Autopsy.**
-<p align=centre>
-<img src="https://latesthackingnews.com/wp-content/uploads/2017/01/Autopsy-Digital-Forensic-Tool.jpg" alt="Autopsy Logo"  >
-</p>
+
+<div>
+<img src="/images/index.png" alt="Autopsy Logo">
+</div>
 
 ## Scenario
 >On 09/20/04 , a Dell CPi notebook computer, serial # VLQLW, was found abandoned along with a wireless PCMCIA card and an external homemade 802.11b antennae. It is suspected that this computer was used for hacking purposes, although cannot be tied to a hacking suspect, G=r=e=g S=c=h=a=r=d=t. (The equal signs are just to prevent web crawlers from indexing this name; there are no equal signs in the image files.)
@@ -142,7 +146,7 @@ Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
      TO find this do the keyword search of SMTP.
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
-<p align=centre>
+<p align=center>
 <img src="/images/Que 17.png" alt="Que17 Image">
 </p>
 
@@ -154,7 +158,7 @@ Ans. NNTP (news server) is : news.dallas.sbcglobal.net
      TO find this do the keyword search of NNTP.
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
-<p align=centre>
+<p align=center>
 <img src="/images/Que 18.png" alt="Que18 Image">
 </p>
 
@@ -165,7 +169,7 @@ Ans. The program show this information is MS Outlook Express.
      Path: "C:\Document and Settings\Mr. Evil\NTUSER.dat\Software\Microsoft\Windows\CurrentVersion\UnreadMail\whoknowsme@sbcglobal.net"
      Where it is showing the application msimn which is the exe of outlook express.
 ```
-<p>
+<p align=center>
 <img src="/images/Que 19.png" alt="Que19 Image">
 </p>
 
