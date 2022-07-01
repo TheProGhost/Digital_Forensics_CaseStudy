@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <img src="/images/mv.png" alt="Logo"> -->
+<img src="/images/mv.png" alt="Logo" height=300px width=352px>
 <h1>Digital Forensics </h1>
 </div>
 
