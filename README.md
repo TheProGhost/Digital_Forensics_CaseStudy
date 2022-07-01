@@ -107,7 +107,7 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 
 16. Find 6 installed programs that may be used for hacking.<br/>
 **Ans.** 
-     <div align=centre>
+     <div align=center>
      <table>
           <tr>
                <th>Program Found</th>
@@ -175,14 +175,36 @@ Ans. The program show this information is MS Outlook Express.
 
 20. List 5 newsgroups that Mr. Evil has subscribed to?<br/>
 ```
+Ans. The answer is in given image. 
+     Note:- The newsgroups can be found at the Path: C:\Document and Settings\Mr. Evil\Local Settings\Application Data\Identities\
+     {EF086998–1115–4ECD-9B13 9ADC067B4929} \Microsoft\Outlook Express
+```
+<div align=center>
+<img src="/images/Que 20.png" alt="Que20 Image">
+</div>
+
+21. A popular IRC (Internet Relay Chat) program called MIRC was installed.  What are the user settings that was shown when the user was online and in a chat channel?<br/>
+```
+Ans. User  = Mini Me
+     Email = none@of.ya
+     nick  = Mr
+     anick = mrevilrulez
+     host  = Undernet: US, CA, LosAngelesSERVER:losangeles.ca.us.undernet.org:6660GROUP:Undernet
+
+     Note:- Can be found at Path: C:\Program Files\mIRC\mirc.ini
+```
+<div align=center>
+<h3>Files in C:\Program Files\mIRC </h3>
+<img src="/images/Que 21_1.png" alt="Que21 image1">
+<h3>Content of the mirc.ini file</h3>
+<img src="/images/Que 21_2.png" alt="Que21 image2">
+</div>
+
+22. This IRC program has the capability to log chat sessions. List 3 IRC channels that the user of this computer accessed.<br/>
+```
 Ans. 
 ```
 
-21. A popular IRC (Internet Relay Chat) program called MIRC was installed.  What are the user settings that was shown when the user was online and in a chat channel?<br/>
-Ans.
-
-22. This IRC program has the capability to log chat sessions. List 3 IRC channels that the user of this computer accessed.<br/>
-Ans.
 
 23. Ethereal, a popular “sniffing” program that can be used to intercept wired and wireless internet packets was also found to be installed. When TCP packets are collected and re-assembled, the default save directory is that users \My Documents directory. What is the name of the file that contains the intercepted data?<br/>
 Ans.
