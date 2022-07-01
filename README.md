@@ -1,9 +1,9 @@
 <div align="center">
-<img src="/images/mv.png" alt="Logo" height=300px width=352px>
+<img src="./images/mv.png" alt="Logo" height=300px width=352px>
 <h1>Digital Forensics </h1>
 </div>
 
-### We are doing the forensic analysis of the Hacking case from the cfred's website.
+### We are doing the forensic analysis of the Hacking case from the CFReDS (Computer Forensic Reference Data Sets).
 
 **Link: https://cfreds-archive.nist.gov/Hacking_Case.html**
 
@@ -23,8 +23,7 @@
 ### Questions
 1. What is the image hash? Does the acquisition and verification hash match?<br/>
 ```
-Ans. MD5 Hash is matched.
-     Hash: aee4fcd9301c03b3b054623ca261959a
+Ans. MD5 Hash : aee4fcd9301c03b3b054623ca261959a
 ```
 
 2. What operating system was used on the computer?<br/>
@@ -147,7 +146,7 @@ Ans. E-mail Address of Mr. Evil is : whoknowsme@sbcglobal.net
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
 <p align=center>
-<img src="/images/Que 17.png" alt="Que17 Image">
+<img src="./images/Que 17.png" alt="Que17 Image">
 </p>
 
 18. What are the NNTP (news server) settings for Mr. Evil?<br/>
@@ -159,7 +158,7 @@ Ans. NNTP (news server) is : news.dallas.sbcglobal.net
      Then search for the file NTUSER.DAT, click on it and in the lower pane click on Text Tab. You will find it there.
 ```
 <p align=center>
-<img src="/images/Que 18.png" alt="Que18 Image">
+<img src="./images/Que 18.png" alt="Que18 Image">
 </p>
 
 19. What two installed programs show this information?<br/>
@@ -170,7 +169,7 @@ Ans. The program show this information is MS Outlook Express.
      Where it is showing the application msimn which is the exe of outlook express.
 ```
 <p align=center>
-<img src="/images/Que 19.png" alt="Que19 Image">
+<img src="./images/Que 19.png" alt="Que19 Image">
 </p>
 
 20. List 5 newsgroups that Mr. Evil has subscribed to?<br/>
@@ -195,40 +194,105 @@ Ans. User  = Mini Me
 ```
 <div>
 <h5>Files in C:\Program Files\mIRC </h5>
-<img src="/images/Que 21_1.png" alt="Que21 image1">
+<img src="./images/Que 21_1.png" alt="Que21 image1">
 <h5>Content of the mirc.ini file</h5>
-<img src="/images/Que 21_2.png" alt="Que21 image2">
+<img src="./images/Que 21_2.png" alt="Que21 image2">
 </div>
 
 22. This IRC program has the capability to log chat sessions. List 3 IRC channels that the user of this computer accessed.<br/>
 ```
-Ans. 
+Ans. To view the logs, we have to go inside the logs directory of mIRC. The channels that the user has accessed is given in below picture.
+     Note:- Path is: C:\Program Files\mIRC\logs
 ```
-
+<div>
+<img src="./images/Que 22.png" alt="Que22 image">
+</div>
 
 23. Ethereal, a popular “sniffing” program that can be used to intercept wired and wireless internet packets was also found to be installed. When TCP packets are collected and re-assembled, the default save directory is that users \My Documents directory. What is the name of the file that contains the intercepted data?<br/>
-Ans.
+```
+Ans. To find the file, we can look to the application data of the Ethereal. The file name is "recent".
+     Upon looking we can see that the recent capture is "interception".
+     recent.capture_file: C:\Documents and Settings\Mr. Evil\interception
+
+     Note:- The path to find the file is : C:\Documents and Settings\Mr. Evil\Application Data\Ethereal\recent
+```
+<div>
+<img src="./images/Que 23.png" alt="Que23 image">
+</div>
 
 24. Viewing the file in a text format reveals much information about who and what was intercepted. What type of wireless computer was the victim (person who had his internet surfing recorded) using?<br/>
-Ans.
+```
+Ans. To get this data we have look into the file which contains intercepted data which is at 
+     "C:\Documents and Settings\Mr. Evil\interception".
+     The wireless computer used by the victim is: Windows CE (Pocket PC) - Version 4.20
+```
+<div>
+<img src="./images/Que 24.png" alt="Que24 image">
+</div>
 
 25. What websites was the victim accessing?<br/>
-Ans.
+```
+Ans. Upon checking the file "interception", the website accessed by user is : 
+     mobile.msn.com, MSN Hotmail Email
+```
+<div>
+<h5>mobile.msn.com</h5>
+<img src="./images/Que 25.png" alt="Que25 image">
+<h5>MSN Hotmail</h5>
+<img src="./images/Que 25_1.png" alt="Que25_1 image">
+</div>
 
 26. Search for the main users web based email address. What is it?<br/>
-Ans.
+```
+Ans. For this, I search in the Web History which is present in Extracted Content. 
+     After searching through all the files, I found a file in which I found that 
+     the user has a login to some FTP service using his email id.
+     Yahoo! Mail - mrevilrulez@yahoo.com
+```
+<div>
+<img src="./images/Que 26.png" alt="Que26 Image">
+</div>
 
 27. Yahoo mail, a popular web based email service, saves copies of the email under what file name?<br/>
-Ans.
+```
+Ans. To find the file name, I did the keyword search.
+     The file found is : ShowLetter[1].htm
+```
+<div>
+<img src="./images/Que 27.png" alt="Que27 Image">
+</div>
 
 28. How many executable files are in the recycle bin?<br/>
-Ans.
+```
+Ans. To find the files, we have to look into folder of Recycle Bin.3
+     Note:- The Path is: "C:\RECYCLER\S-1–5–21–2000478354–688789844–1708537768–1003\"
+```
+<div>
+<img src="./images/Que 28.png" alt="Que28 Images">
+</div>
 
 29. Are these files really deleted?<br/>
-Ans.
+```
+Ans. By looking at Deleted Files in the left pane, the total count of deleted files is: 1371
+```
+<div>
+<img src="./images/Que 29.png" alt="Que29 Image">
+</div>
 
 30. How many files are actually reported to be deleted by the file system?<br/>
-Ans.
+```
+Ans. By looking at Deleted Files in the left pane, the files actually reported to be deleted by file system is: 365
+```
+<div>
+<img src="./images/Que 30.png" alt="Que30 Image">
+</div>
 
 31. Perform a Anti-Virus check. Are there any viruses on the computer?<br/>
-Ans.
+```
+Ans. Autopsy itself performs an antivirus check & it shows its result inside Interesting Items (left-side tree structure).
+     Upon looking at, we find out that there is a zip bomb.
+     Location of zip bomb: C:\My Documents\FOOTPRINTING\UNIX\unix_hack.tgz
+```
+<div>
+<img src="./images/Que 31.png" alt="Que31 Image">
+</div>
