@@ -103,12 +103,12 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 
 16. Find 6 installed programs that may be used for hacking.<br/>
 ```
-Ans. 1. Cain & Abel v2.5 beta45              : Password cracking tool
-     2. Ethereal 0.10.6 v.0.10.6	          : Advanced Network Analysis Software
-     3. Network Stumbler 0.4.0 (remove only)	: Wireless LAN detaction and attack
-     4. Look@LAN 2.50 Build 29               :  an advanced network monito
-     5. 123 Write All Stored Passwords	     :   display all passwords of the currently logged on user that are stored in the Microsoft PWL file
-     6. Anonymizer Bar 2.0 (remove only)	:  a tool that attempts to make activity on the Internet untraceable
+Ans. Cain & Abel v2.5 beta45              : Password cracking tool
+     Ethereal 0.10.6 v.0.10.6	          : Advanced Network Analysis Software
+     Network Stumbler 0.4.0 (remove only) : Wireless LAN detaction and attack
+     Look@LAN 2.50 Build 29               :  an advanced network monito
+     123 Write All Stored Passwords	  :   display all passwords of the currently logged on user that are stored in the Microsoft PWL file
+     Anonymizer Bar 2.0 (remove only)	  :  a tool that attempts to make activity on the Internet untraceable
 ```
 
 17. What is the SMTP email address for Mr. Evil?<br/>
