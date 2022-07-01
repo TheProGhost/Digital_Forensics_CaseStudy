@@ -10,7 +10,7 @@
 * **We will be using the tool name Autopsy.**
 
 <div>
-<img src="/images/index.png" alt="Autopsy Logo">
+<img src="./images/index.png" alt="Autopsy Logo">
 </div>
 
 ## Scenario
@@ -179,7 +179,7 @@ Ans. The answer is in given image.
      {EF086998–1115–4ECD-9B13 9ADC067B4929} \Microsoft\Outlook Express
 ```
 <div align=center>
-<img src="/images/Que 20.png" alt="Que20 Image">
+<img src="./images/Que 20.png" alt="Que20 Image">
 </div>
 
 21. A popular IRC (Internet Relay Chat) program called MIRC was installed.  What are the user settings that was shown when the user was online and in a chat channel?<br/>
