@@ -54,7 +54,7 @@ Ans. Friday, August 20, 2004 4:18:27 AM GMT+05:30
 
 #### 4. What is the timezone settings?<br/>
 ```
-Ans. Central Standerd Time
+Ans. Central Standard Time
      This information can be found at the registry key: HKEY_LOCAL_MACHINE\system\CurrentControlSet\Control\TimeZoneInformation
      The actual path of the registry key storage is: C:\windows\system32\config\system\CurrentControlSet\Control\TimeZoneInformation
 ```
@@ -174,39 +174,21 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 </div>
 
 #### 16. Find 6 installed programs that may be used for hacking.<br/>
+<!-- <style>
+td,th
+{
+     border: none!important;
+}
+</style> -->
 **Ans.** 
-     <div align=center>
-     <table>
-          <tr>
-               <th>Program Found</th>
-               <th>Usage</th>
-          </tr>
-          <tr>
-               <td>Cain & Abel v2.5 beta45</td> 
-               <td>Password cracking tool</td>
-          </tr>
-          <tr>
-               <td>Ethereal 0.10.6 v.0.10.6</td>
-               <td>Advanced Network Analysis Software</td>
-          </tr>
-          <tr>
-               <td>Network Stumbler 0.4.0 (remove only)</td> 
-               <td>Wireless LAN detaction and attack</td>
-          </tr>
-          <tr>
-               <td>Look@LAN 2.50 Build 29</td> 
-               <td>an advanced network monito</td>
-          </tr>
-          <tr>
-               <td>123 Write All Stored Password</td>
-               <td>display all passwords of the currently logged on user that are stored in the Microsoft PWL file</td>
-          </tr>
-          <tr>
-               <td>Anonymizer Bar 2.0 (remove only)</td> 
-               <td>a tool that attempts to make activity on the Internet untraceable</td>
-          </tr>
-     </table>
-     </div>
+|Program Found|Usage|
+|---|---|
+|Cain & Abel v2.5 beta45|Password cracking tool|
+|Ethereal 0.10.6 v.0.10.6|Advanced Network Analysis Software|
+|Network Stumbler 0.4.0 (remove only)|Wireless LAN detaction and attack|
+|Look@LAN 2.50 Build 29|an advanced network monito|
+|123 Write All Stored Password|display all passwords of the currently logged on user that are stored in the Microsoft PWL file|
+|Anonymizer Bar 2.0 (remove only)|a tool that attempts to make activity on the Internet untraceable|
 
 ***This Information can be found by Selecting the "Installed Programs" from left pane.***
 
