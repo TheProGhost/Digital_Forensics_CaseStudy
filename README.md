@@ -1,6 +1,11 @@
 <div align="center">
 <img src="./images/mv.png" alt="Logo" height=300px width=352px>
 <h1>Digital Forensics </h1>
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Author](https://img.shields.io/badge/Author-TheProGhost-brightgreen)](https://github.com/TheProGhost)
+[![Tool](https://img.shields.io/badge/Tool-Autopsy-orange)](https://www.autopsy.com/)
+
 </div>
 
 ### We are doing the forensic analysis of the 🔗 [Hacking Case](https://cfreds-archive.nist.gov/Hacking_Case.html) from the CFReDS (Computer Forensic Reference Data Sets).
