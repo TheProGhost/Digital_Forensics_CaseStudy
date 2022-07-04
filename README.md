@@ -174,21 +174,22 @@ Ans. Upon looking on MAC Lookup the company name found was: XIRCOM.
 </div>
 
 #### 16. Find 6 installed programs that may be used for hacking.<br/>
+**Ans.**
 <!-- <style>
 td,th
 {
      border: none!important;
 }
 </style> -->
-**Ans.** 
-|Program Found|Usage|
-|---|---|
-|Cain & Abel v2.5 beta45|Password cracking tool|
-|Ethereal 0.10.6 v.0.10.6|Advanced Network Analysis Software|
-|Network Stumbler 0.4.0 (remove only)|Wireless LAN detaction and attack|
-|Look@LAN 2.50 Build 29|an advanced network monito|
-|123 Write All Stored Password|display all passwords of the currently logged on user that are stored in the Microsoft PWL file|
-|Anonymizer Bar 2.0 (remove only)|a tool that attempts to make activity on the Internet untraceable|
+
+**Program Found** | **Usage**
+---|---
+Cain & Abel v2.5 beta45|Password cracking tool
+Ethereal 0.10.6 v.0.10.6|Advanced Network Analysis Software
+Network Stumbler 0.4.0 (remove only)|Wireless LAN detaction and attack
+Look@LAN 2.50 Build 29|an advanced network monito
+123 Write All Stored Password|display all passwords of the currently logged on user that are stored in the Microsoft PWL file
+Anonymizer Bar 2.0 (remove only)|a tool that attempts to make activity on the Internet untraceable
 
 ***This Information can be found by Selecting the "Installed Programs" from left pane.***
 
