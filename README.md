@@ -239,10 +239,14 @@ Ans. There are 4 Email services found.
 ```
 
 <div>
+
+### Email Services Found
 <img src="./images/Que 19_1.png" alt="Que19_1 Image">
 
+### For Outlook Express
 <img src="./images/Que 19.png" alt="Que19 Image">
 
+### For AGENT.ini
 <img src="./images/Que 19_2.png" alt="Que19_2 Image">
 </div>
 
