@@ -226,13 +226,24 @@ Ans. NNTP (news server) is : news.dallas.sbcglobal.net
 
 #### 19. What two installed programs show this information?<br/>
 ```
-Ans. The program show this information is MS Outlook Express.
+Ans. There are 4 Email services found. 
+     Forte Agent, Hot Mail, MSN Explorer, Outlook Express
+     
+     The program show this information is MS Outlook Express.
      This thing can be varified by checking the file on given path.
      Path: "C:\Document and Settings\Mr. Evil\NTUSER.dat\Software\Microsoft\Windows\CurrentVersion\UnreadMail\whoknowsme@sbcglobal.net"
      Where it is showing the application msimn which is the exe of outlook express.
+     
+     Upon looking in the C:\Program Files, the program for the Forte Agent which is named as Agent.
+     After some roaming around, I find file named AGENT.ini where the same EMail is used.
 ```
+
 <div>
+<img src="./images/Que 19_1.png" alt="Que19_1 Image">
+
 <img src="./images/Que 19.png" alt="Que19 Image">
+
+<img src="./images/Que 19_2.png" alt="Que19_2 Image">
 </div>
 
 #### 20. List 5 newsgroups that Mr. Evil has subscribed to?<br/>
